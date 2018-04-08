@@ -1,0 +1,181 @@
+[
+    {
+        "values": [
+            {
+                "id": 1365,
+                "name": "儿歌",
+                "sequence": 3
+            },
+            {
+                "id": 1366,
+                "name": "童话",
+                "sequence": 5
+            },
+            {
+                "id": 1367,
+                "name": "绘本",
+                "sequence": 6
+            },
+            {
+                "id": 1369,
+                "name": "卡通",
+                "sequence": 7
+            },
+            {
+                "id": 1372,
+                "name": "主播",
+                "sequence": 8
+            },
+            {
+                "id": 1373,
+                "name": "国学",
+                "sequence": 9
+            },
+            {
+                "id": 1370,
+                "name": "教育",
+                "sequence": 9
+            },
+            {
+                "id": 3350,
+                "name": "英语",
+                "sequence": 9
+            },
+            {
+                "id": 3349,
+                "name": "胎教",
+                "sequence": 10
+            },
+            {
+                "id": 1375,
+                "name": "百科",
+                "sequence": 10
+            },
+            {
+                "id": 3011,
+                "name": "牛津",
+                "sequence": 11
+            },
+            {
+                "id": 1421,
+                "name": "小说",
+                "sequence": 12
+            },
+            {
+                "id": 1420,
+                "name": "中外经典",
+                "sequence": 13
+            },
+            {
+                "id": 1376,
+                "name": "育儿",
+                "sequence": 14
+            },
+            {
+                "id": 3541,
+                "name": "美声图书馆",
+                "sequence": 15
+            }
+        ],
+        "id": 35,
+        "name": "分类"
+    },
+    {
+        "values": [
+            {
+                "id": 3352,
+                "name": "0-3岁",
+                "sequence": 1
+            },
+            {
+                "id": 3353,
+                "name": "3-6岁",
+                "sequence": 2
+            },
+            {
+                "id": 3354,
+                "name": "6-9岁",
+                "sequence": 3
+            },
+            {
+                "id": 3534,
+                "name": "9-12岁",
+                "sequence": 4
+            },
+            {
+                "id": 3356,
+                "name": "女宝宝",
+                "sequence": 5
+            },
+            {
+                "id": 3355,
+                "name": "男宝宝",
+                "sequence": 6
+            },
+            {
+                "id": 3357,
+                "name": "爸爸妈妈",
+                "sequence": 7
+            }
+        ],
+        "id": 73,
+        "name": "人群"
+    },
+    {
+        "values": [
+            {
+                "id": 3528,
+                "name": "最新上架",
+                "sequence": 1
+            },
+            {
+                "id": 3529,
+                "name": "大咖育儿",
+                "sequence": 2
+            },
+            {
+                "id": 3531,
+                "name": "教育课程",
+                "sequence": 3
+            },
+            {
+                "id": 3530,
+                "name": "正版出品",
+                "sequence": 4
+            },
+            {
+                "id": 3532,
+                "name": "凯叔专区",
+                "sequence": 5
+            }
+        ],
+        "id": 302,
+        "name": "精品"
+    },
+    {
+        "values": [
+            {
+                "id": 3360,
+                "name": "最热门",
+                "sequence": 1
+            },
+            {
+                "id": 3361,
+                "name": "睡前故事",
+                "sequence": 3
+            },
+            {
+                "id": 3362,
+                "name": "名人",
+                "sequence": 4
+            },
+            {
+                "id": 3535,
+                "name": "小学教材",
+                "sequence": 5
+            }
+        ],
+        "id": 36,
+        "name": "推荐"
+    }
+]
